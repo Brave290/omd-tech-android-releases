@@ -1,0 +1,12 @@
+{
+  "version": "1.4.0",
+  "tag": "v1.4.0",
+  "publishedAt": "2026-10-11T14:33:13Z",
+  "apkUrl": "https://raw.githubusercontent.com/Brave290/omd-tech-android-releases/main/releases/omd-tech-1.4.0.apk",
+  "aabUrl": "https://raw.githubusercontent.com/Brave290/omd-tech-android-releases/main/releases/omd-tech-1.4.0.aab",
+  "latestApkUrl": "https://raw.githubusercontent.com/Brave290/omd-tech-android-releases/main/omd-tech-latest.apk",
+  "sha256": {
+    "apk": "aab52ff6667771961934e4004e30c192c16a28a9d48af66f825f7689eaf32c63",
+    "aab": "ad4b6ff1d2173066a0fc93edfc62a9f51e8a51bccfd07f6c14141e0318c0a5c3"
+  }
+}
