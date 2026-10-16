@@ -1,12 +1,12 @@
 {
-  "version": "1.5.14",
-  "tag": "v1.5.14",
-  "publishedAt": "2026-10-14T10:20:48Z",
-  "apkUrl": "https://raw.githubusercontent.com/Brave290/omd-tech-android-releases/main/releases/omd-tech-1.5.14.apk",
-  "aabUrl": "https://raw.githubusercontent.com/Brave290/omd-tech-android-releases/main/releases/omd-tech-1.5.14.aab",
+  "version": "1.5.15",
+  "tag": "v1.5.15",
+  "publishedAt": "2026-10-16T05:25:05Z",
+  "apkUrl": "https://raw.githubusercontent.com/Brave290/omd-tech-android-releases/main/releases/omd-tech-1.5.15.apk",
+  "aabUrl": "https://raw.githubusercontent.com/Brave290/omd-tech-android-releases/main/releases/omd-tech-1.5.15.aab",
   "latestApkUrl": "https://raw.githubusercontent.com/Brave290/omd-tech-android-releases/main/omd-tech-latest.apk",
   "sha256": {
-    "apk": "e1b11bc3a9c3159766754b5568c37a335d32d880b9eafcc200cfd631ca7c8033",
-    "aab": "a52a7da4f1d2a2b5d04f45a23947dde0d584ae45c64790b823b71d9c5ca7dcbb"
+    "apk": "872537a6f45d4a8613cf12b9fe4c4beef619fe1066e17c818ff17c45099bb8e6",
+    "aab": "112a7213dae5c3341931aa0aff2f8abebb9e8fb36515c22799121ec28b21e45c"
   }
 }
